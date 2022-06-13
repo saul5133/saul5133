@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @saul5133
 - 👀 I’m interested in programming, sci-fi literature.
-- 🌱 I’m currently learning html, css, javascript and java.
-- 💞️ I’m looking to collaborate on FRC First stuff
+- 🌱 I’m currently learning html, css, javascript, python and java.
 - 📫 How to reach me: saulgl@tec.mx
 
 <!---
